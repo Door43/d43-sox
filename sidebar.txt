@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sox:home|Door43 (sox)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sox|d43-sox repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sox/archive/master.zip|d43-sox.zip]]
+
+**Recent Changes**
+{{changes>ns = sox}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sox|Ethnologue data]]
+
